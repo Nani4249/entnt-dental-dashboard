@@ -4,25 +4,6 @@ A full-featured dental center dashboard built using **ReactJS** — designed for
 
 > ✅ Frontend-only project using `localStorage` — no backend or database required.
 
----
-
-## 📸 Screenshots
-
-| Login (Admin)              | Dashboard KPIs               |
-|----------------------------|------------------------------|
-| ![login](screenshots/login.png) | ![dashboard](screenshots/dashboard.png) |
-
-> 💡 You can add your own images to a `/screenshots` folder and reference them here.
-
----
-
-## 🚀 Live Demo
-
-Deployed at:  
-🌐 [https://your-username.github.io/entnt-dental-dashboard](https://your-username.github.io/entnt-dental-dashboard)
-
----
-
 ## 👥 Login Credentials
 
 | Role    | Email               | Password     | Redirect     |
@@ -101,11 +82,5 @@ entnt-dental-dashboard/
 
 ---
 
-## 🧪 How to Run Locally
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/entnt-dental-dashboard.git
-   cd entnt-dental-dashboard
 
 
